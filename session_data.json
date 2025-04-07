@@ -1,0 +1,345 @@
+{
+  "1": [
+    {
+      "issues": [
+        "Feeling excluded from social gatherings at work",
+        "Low self-esteem in social settings",
+        "Arguments with partner affecting emotional health"
+      ],
+      "assessments": [
+        "SPIN",
+        "IPRS"
+      ],
+      "technique": "CBT",
+      "explanation": "Helps with thought patterns around social anxiety.",
+      "questions": [
+        "What situations make you feel excluded?",
+        "How do you react to arguments?"
+      ],
+      "emotions": [
+        "Loneliness",
+        "Anxiety",
+        "Guilt"
+      ]
+    },
+    {
+      "issues": [
+        "Still feels excluded at work",
+        "Relationship conflicts are continuing",
+        "Avoiding social settings due to low confidence"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT",
+      "explanation": "Reinforce exposure techniques for confidence building.",
+      "questions": [
+        "What events have you avoided this week?"
+      ],
+      "emotions": [
+        "Insecurity",
+        "Frustration"
+      ]
+    },
+    {
+      "issues": [
+        "Felt less excluded this week but still distant",
+        "Relationship tension decreasing but still present",
+        "Starting to engage socially with some hesitation"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT with journaling",
+      "explanation": "Use journaling to track social wins and discomfort.",
+      "questions": [
+        "What did you try this week socially?"
+      ],
+      "emotions": [
+        "Hope",
+        "Worry"
+      ]
+    },
+    {
+      "issues": [
+        "Social engagement improved",
+        "Partner conflict almost resolved",
+        "Worried about future interactions"
+      ],
+      "assessments": [
+        "IPRS"
+      ],
+      "technique": "CBT with role-playing",
+      "explanation": "Practice responses in advance of tough conversations.",
+      "questions": [
+        "How did your conversation with your partner go?"
+      ],
+      "emotions": [
+        "Hopefulness",
+        "Anticipation"
+      ]
+    },
+    {
+      "issues": [
+        "Feeling socially accepted",
+        "Partner relationship stable",
+        "Mild worry about maintaining progress"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "Behavioral Activation",
+      "explanation": "Keep routine that reinforces positive interactions.",
+      "questions": [
+        "What support do you need to sustain this change?"
+      ],
+      "emotions": [
+        "Calm",
+        "Satisfaction"
+      ]
+    }
+  ],
+  "2": [
+    {
+      "issues": [
+        "Feeling excluded from social gatherings at work",
+        "Low self-esteem in social settings",
+        "Arguments with partner affecting emotional health"
+      ],
+      "assessments": [
+        "SPIN",
+        "IPRS"
+      ],
+      "technique": "CBT",
+      "explanation": "Helps with thought patterns around social anxiety.",
+      "questions": [
+        "What situations make you feel excluded?",
+        "How do you react to arguments?"
+      ],
+      "emotions": [
+        "Loneliness",
+        "Anxiety",
+        "Guilt"
+      ]
+    },
+    {
+      "issues": [
+        "Still feels excluded at work",
+        "Relationship conflicts are continuing",
+        "Avoiding social settings due to low confidence"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT",
+      "explanation": "Reinforce exposure techniques for confidence building.",
+      "questions": [
+        "What events have you avoided this week?"
+      ],
+      "emotions": [
+        "Insecurity",
+        "Frustration"
+      ]
+    },
+    {
+      "issues": [
+        "Felt less excluded this week but still distant",
+        "Relationship tension decreasing but still present",
+        "Starting to engage socially with some hesitation"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT with journaling",
+      "explanation": "Use journaling to track social wins and discomfort.",
+      "questions": [
+        "What did you try this week socially?"
+      ],
+      "emotions": [
+        "Hope",
+        "Worry"
+      ]
+    },
+    {
+      "issues": [
+        "Social engagement improved",
+        "Partner conflict almost resolved",
+        "Worried about future interactions"
+      ],
+      "assessments": [
+        "IPRS"
+      ],
+      "technique": "CBT with role-playing",
+      "explanation": "Practice responses in advance of tough conversations.",
+      "questions": [
+        "How did your conversation with your partner go?"
+      ],
+      "emotions": [
+        "Hopefulness",
+        "Anticipation"
+      ]
+    },
+    {
+      "issues": [
+        "Feeling socially accepted",
+        "Partner relationship stable",
+        "Mild worry about maintaining progress"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "Behavioral Activation",
+      "explanation": "Keep routine that reinforces positive interactions.",
+      "questions": [
+        "What support do you need to sustain this change?"
+      ],
+      "emotions": [
+        "Calm",
+        "Satisfaction"
+      ]
+    }
+  ],
+  "3": [
+    {
+      "issues": [
+        "Feeling excluded from social gatherings at work",
+        "Low self-esteem in social settings",
+        "Arguments with partner affecting emotional health"
+      ],
+      "assessments": [
+        "SPIN",
+        "IPRS"
+      ],
+      "technique": "CBT",
+      "explanation": "Helps with thought patterns around social anxiety.",
+      "questions": [
+        "What situations make you feel excluded?",
+        "How do you react to arguments?"
+      ],
+      "emotions": [
+        "Loneliness",
+        "Anxiety",
+        "Guilt"
+      ]
+    },
+    {
+      "issues": [
+        "Still feels excluded at work",
+        "Relationship conflicts are continuing",
+        "Avoiding social settings due to low confidence"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT",
+      "explanation": "Reinforce exposure techniques for confidence building.",
+      "questions": [
+        "What events have you avoided this week?"
+      ],
+      "emotions": [
+        "Insecurity",
+        "Frustration"
+      ]
+    },
+    {
+      "issues": [
+        "Felt less excluded this week but still distant",
+        "Relationship tension decreasing but still present",
+        "Starting to engage socially with some hesitation"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT with journaling",
+      "explanation": "Use journaling to track social wins and discomfort.",
+      "questions": [
+        "What did you try this week socially?"
+      ],
+      "emotions": [
+        "Hope",
+        "Worry"
+      ]
+    },
+    {
+      "issues": [
+        "Social engagement improved",
+        "Partner conflict almost resolved",
+        "Worried about future interactions"
+      ],
+      "assessments": [
+        "IPRS"
+      ],
+      "technique": "CBT with role-playing",
+      "explanation": "Practice responses in advance of tough conversations.",
+      "questions": [
+        "How did your conversation with your partner go?"
+      ],
+      "emotions": [
+        "Hopefulness",
+        "Anticipation"
+      ]
+    },
+    {
+      "issues": [
+        "Feeling socially accepted",
+        "Partner relationship stable",
+        "Mild worry about maintaining progress"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "Behavioral Activation",
+      "explanation": "Keep routine that reinforces positive interactions.",
+      "questions": [
+        "What support do you need to sustain this change?"
+      ],
+      "emotions": [
+        "Calm",
+        "Satisfaction"
+      ]
+    }
+  ],
+  "4": [
+    {
+      "issues": [
+        "Feeling excluded from social gatherings at work",
+        "Low self-esteem in social settings",
+        "Arguments with partner affecting emotional health"
+      ],
+      "assessments": [
+        "SPIN",
+        "IPRS"
+      ],
+      "technique": "CBT",
+      "explanation": "Helps with thought patterns around social anxiety.",
+      "questions": [
+        "What situations make you feel excluded?",
+        "How do you react to arguments?"
+      ],
+      "emotions": [
+        "Loneliness",
+        "Anxiety",
+        "Guilt"
+      ]
+    },
+    {
+      "issues": [
+        "Still feels excluded at work",
+        "Relationship conflicts are continuing",
+        "Avoiding social settings due to low confidence"
+      ],
+      "assessments": [
+        "SPIN"
+      ],
+      "technique": "CBT",
+      "explanation": "Reinforce exposure techniques for confidence building.",
+      "questions": [
+        "What events have you avoided this week?"
+      ],
+      "emotions": [
+        "Insecurity",
+        "Frustration"
+      ]
+    }
+  ]
+}
